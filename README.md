@@ -24,8 +24,8 @@ cd SentinelIP
 
 ### Running Locally
 
-1.  Install dependencies:  go mod tidy
-2. Start the application: go run cmd/main.go
+1.  Install dependencies:  ```go mod tidy```
+2. Start the application: ```go run cmd/main.go```
 3. The application will run locally on `http://localhost:8080/`. You can test the threat detection functionality at: http://localhost:8080/threat-detection
 
 ## Usage
