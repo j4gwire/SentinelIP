@@ -49,7 +49,7 @@ Example Response:
 
 ## Contributing
 
-We welcome contributions to **SentinelIP**! To contribute:
+I welcome contributions to **SentinelIP**! To contribute:
 
 1.  Fork the repository.
 2.  Create a new branch for your changes.
