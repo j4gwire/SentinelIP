@@ -19,7 +19,7 @@
 
 ### Clone the repository
 ```
-git clone https://github.com/ScribeAegis/SentinelIP.git
+git clone https://github.com/j4gwire/SentinelIP.git
 cd SentinelIP
 ```
 
